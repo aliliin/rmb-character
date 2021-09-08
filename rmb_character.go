@@ -14,7 +14,7 @@ var placeUnits = [4]string{"", "万", "亿", "兆"}
 
 var decimalUnits = [4]string{"角", "分", "厘", "毫"}
 
-func Rmb_capital(price int) string {
+func RmbCapitalCharacters(price int) string {
 	if price <= 0 {
 		return "输入金额请大于 0 "
 	}
