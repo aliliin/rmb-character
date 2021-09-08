@@ -25,9 +25,10 @@ import (
 ##### 用法示例
 
 ```go
-// 今天此刻
-fmt.Sprintf("%s", RmbCapitalCharacters(123456)) // 2020-08-05 13:14:15
 
+fmt.Println(rmb_character.RmbCapitalCharacters(1234340)) // 壹万贰仟叁佰肆拾叁圆肆角零分
+
+fmt.Println(rmb_character.RmbCapitalCharacters(567843)) // 伍仟陆佰柒拾捌圆肆角叁分
 ```
 
 
