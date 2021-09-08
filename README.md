@@ -9,8 +9,8 @@
 ##### Golang 版本大于等于1.16
 
 ```go
-// 使用 github 库
-go get -u github.com/golang-module/carbon/v2
+
+go get -u github.com/aliliin/rmb-character
 
 import (
     "github.com/aliliin/rmb-character"
