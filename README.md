@@ -1,8 +1,7 @@
-# RMB-Character Convert RMB amount to Chinese uppercase.  #
+# 将阿拉伯数字金额转换为汉字的形式 #
 
 
-将阿拉伯数字金额转换为汉字的形式
-
+Convert Arabic numeric amounts to Chinese character form. 
 
 #### 安装使用
 
